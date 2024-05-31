@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Winter_Watering_Frequency__c</fullName>
+    <description>Frecuencia de riego en invierno</description>
+    <externalId>false</externalId>
+    <label>Winter Watering Frequency</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Watering_Frequency</valueSetName>
+    </valueSet>
+</CustomField>
